@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tizia\\Desktop\\sš\\předměty-stredniskola\\programování-stredniskola\\PR-2A-S1\\chess 2.0\\chess 2.0\\chess 2.0.csproj",
+      "projectUniqueName": "C:\\Users\\tizia\\Desktop\\chess\\chess 2.0\\chess 2.0\\chess 2.0.csproj",
       "projectName": "chess 2.0",
-      "projectPath": "C:\\Users\\tizia\\Desktop\\sš\\předměty-stredniskola\\programování-stredniskola\\PR-2A-S1\\chess 2.0\\chess 2.0\\chess 2.0.csproj",
+      "projectPath": "C:\\Users\\tizia\\Desktop\\chess\\chess 2.0\\chess 2.0\\chess 2.0.csproj",
       "packagesPath": "C:\\Users\\tizia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tizia\\Desktop\\sš\\předměty-stredniskola\\programování-stredniskola\\PR-2A-S1\\chess 2.0\\chess 2.0\\obj\\",
+      "outputPath": "C:\\Users\\tizia\\Desktop\\chess\\chess 2.0\\chess 2.0\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\tizia\\AppData\\Roaming\\NuGet\\NuGet.Config",

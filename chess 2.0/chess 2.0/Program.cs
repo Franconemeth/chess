@@ -5,7 +5,7 @@
         public static bool whitesTurn = true;
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            Board board = new();
         }
     }
 }
